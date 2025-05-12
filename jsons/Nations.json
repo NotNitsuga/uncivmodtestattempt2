@@ -3,12 +3,12 @@
 		"name": "Furries",
 		"leaderName": "Nìtsuga",
 		"adjective": ["Furry"],
-		"startBias": ["Hill", "Forest"],
+		"startBias": ["Hill", "Forest", "Avoid [Dessert]", "Grassland", "Avoid [Tundra]"],
 		"preferredVictoryType": "Cultural",
 		"personality": "Gandhi",
 		
-		"startIntroPart1": "OwO *notices your bulge* where do you think you're going with that package?",
-		"startIntroPart2": "*paws at you* *paws at you* *paws at you* *paws at you* hiiiiiiiiiiiiiiii :3",
+		"startIntroPart1": "chipi chipi chapa chapa dubi dubi daba daba mágico mí dubi dubi boom boom boom boom",
+		"startIntroPart2": "I know what you are... *stares into your soul*",
 		
 		"declaringWar": "Imma stomp ya with ma big paw! >:3",
 		"attacked": "I'm going to scratch your back with my claws.",
@@ -29,13 +29,13 @@
 		"tradeRequest": "Our snouts sensed that this is a trade worth my time.",
 
 		"favoredReligion": "Confucianism",
-		"outerColor": [91, 206, 250],
-		"innerColor": [245, 169, 184],
+		"outerColor": [156,225,252],
+		"innerColor": [153,108,117],
 		"uniqueName": "Community Unison",
 		"unique": ["[+1 Happiness] from each Trade Route",
 			"\"Borrows\" city names from other civilizations in the game",
 			"[-50]% maintenance on road & railroads"],
-		"cities": ["Balatro City."],
+		"cities": ["FurPlaza"],
 		"spyNames": ["Diam", "Silver", "Razor", "Sheran", "Terumm", "Aslan", "Algol", "FugiMagi", "Mark_Barks", "NorthenLion"]
 	}
 ]
