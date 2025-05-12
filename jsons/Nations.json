@@ -29,8 +29,8 @@
 		"tradeRequest": "Our snouts sensed that this is a trade worth my time.",
 
 		"favoredReligion": "Confucianism",
-		"outerColor": [91,206,250],
-		"innerColor": [245,169,184],
+		"outerColor": [91, 206, 250],
+		"innerColor": [245, 169, 184],
 		"uniqueName": "Community Unison",
 		"unique": ["[+1 Happiness] from each Trade Route",
 			"\"Borrows\" city names from other civilizations in the game",
