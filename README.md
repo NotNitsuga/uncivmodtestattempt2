@@ -1,5 +1,5 @@
-# Unciv-mod-example
+# Unciv-mod-attempt2
 
-An example mod for Unciv, that adds one new Civilization.
+I tried creating a new civ...
 
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+I followed the tutorial and tried my best to do something good [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
