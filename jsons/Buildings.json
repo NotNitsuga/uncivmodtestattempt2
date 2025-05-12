@@ -19,7 +19,7 @@
 		"culture": 1,
 		"maintenance": 1,
 		"specialistSlots": {"Artist": 1},
-		"uniques": ["[+1 Science] per [2] population [in this city]", "[+2 Gold], per [3] population [in this city]"],
+		"uniques": ["[+1 Science] per [2] population [in this city]", "[+2 Gold] per [3] population [in this city]"],
 		"requiredTech": "Writing"
 	}
 ]
