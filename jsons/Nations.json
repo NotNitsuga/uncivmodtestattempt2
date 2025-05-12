@@ -3,7 +3,7 @@
 		"name": "Furries",
 		"leaderName": "Nìtsuga",
 		"adjective": ["Furry"],
-		"startBias": ["Hill", "Forest", "Avoid [Dessert]", "Grassland", "Avoid [Tundra]"],
+		"startBias": ["Hill", "Forest", "Avoid [Desert]", "Grassland", "Avoid [Tundra]"],
 		"preferredVictoryType": "Cultural",
 		"personality": "Gandhi",
 		
