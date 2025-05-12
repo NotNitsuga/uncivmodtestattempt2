@@ -1,18 +1,25 @@
 [
 	{
-		"name": "Water Mill",
-		"maintenance": 2,
-		"food": 2,
-		"production": 1,
-		"hurryCostModifier": 25,
-		"uniques": ["Must be on [River]"],
-		"requiredTech": "The Wheel"
+		"name": "Exotic Circus",
+		"replaces": "Circus",
+		"uniqueTo": "Furries",
+		"requiredNearbyImprovedResources": ["Ivory","Horses", "Truffles", "Sheep", "Deer", "Furs", "Fish", "Cattle", "Crab", "Whales"],
+		"happiness": 3,
+		"culture": 1,
+		"gold": 1,
+		"hurryCostModifier": 35,
+		"requiredTech": "Trapping"
 	},
 	{
-		"name": "Library",
+		"name": "FurComic Library",
+		"replaces": "Library",
+		"uniqueTo": "Furries",
 		"hurryCostModifier": 25,
+		"happiness": 1,
+		"culture": 1,
 		"maintenance": 1,
-		"uniques": ["[+1 Science] per [2] population [in this city]"],
+		"specialistSlots": {"Artist": 1},
+		"uniques": ["[+1 Science] per [2] population [in this city]", "[+2 Gold], per [3] population [in this city]"],
 		"requiredTech": "Writing"
 	}
 ]
