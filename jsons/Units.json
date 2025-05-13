@@ -20,7 +20,7 @@
 		"uniqueTo": "Furries",
 		"unitType": "Civilian",
 		"movement": 2,
-		"uniques": ["Can build [All] improvements on tiles", "Automation is a primary action", "Ignores terrain cost"],
+		"uniques": ["Can build [All] improvements on tiles", "Can build [Land] improvements on tiles", "Automation is a primary action", "Ignores terrain cost"],
 		"cost": 48
 	}
 ]
