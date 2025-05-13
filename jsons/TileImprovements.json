@@ -70,6 +70,15 @@
 		"shortcutKey": "P"
 	},
 	{
+		"name": "Shelter",
+		"replaces": "Pasture",
+		"uniqueTo": "Furries",
+		"turnsToBuild": 8,
+		"techRequired": "Animal Husbandry",
+		"uniques": ["[+1 Production] <after discovering [Chivalry]>", "[+1 Culture] <after discovering [Printing Press]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+1 Gold]"],
+		"shortcutKey": "P"
+	},
+	{
 		"name": "Plantation",
 		"turnsToBuild": 6,
 		"gold": 1,
