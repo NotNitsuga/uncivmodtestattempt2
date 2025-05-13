@@ -5,7 +5,7 @@
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Grassland"],
 		"food": 1,
-		"improvement": "Pasture",
+		"improvement": ["Pasture", "Shelter"],
 		"improvementStats": {"production": 1},
 		"uniques": ["Generated on every [18] tiles <in [{Featureless} {Grassland}] tiles>",
 					"Generated on every [22] tiles <in [{Featureless} {Grassland}] tiles> <in [Hill] Regions>"]
@@ -15,7 +15,7 @@
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Hill"],
 		"food": 1,
-		"improvement": "Pasture",
+		"improvement": ["Pasture", "Shelter"],
 		"improvementStats": {"food": 1},
 		"uniques": ["Generated on every [13] tiles <in [Hill] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>",
 					"Generated on every [10] tiles <in [Hill] tiles> <in tiles without [Forest]> <in tiles without [Jungle]> <in tiles without [Fresh Water]> <in [Hill] Regions>"]
@@ -92,7 +92,7 @@
 		"revealedBy": "Animal Husbandry",
 		"terrainsCanBeFoundOn": ["Plains","Grassland","Hill"], // Hill only if plains or grassland
 		"production": 1,
-		"improvement": "Pasture",
+		"improvement": ["Pasture", "Shelter"],
 		"improvementStats": {"production": 1},
 		"uniques": ["Guaranteed with Strategic Balance resource option",
 					"Generated with weight [100] <in [{Featureless} {Grassland}] tiles>",
