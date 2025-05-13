@@ -1,8 +1,9 @@
 [
-  {
+
+	{
 		"name": "Werewolf",
-    "replaces": "Scout",
-    "uniqueTo": "Furries",
+                "replaces": "Scout",
+                "uniqueTo": "Furries",
 		"unitType": "Scout",
 		"movement": 2,
 		"strength": 8,
@@ -11,5 +12,14 @@
 		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
-    }
+	},
+    
+	{
+		"name": "Fursuiter",
+		"replaces": "Worker",
+		"uniqueTo": "Furries",
+		"unitType": "Civilian",
+		"movement": 2,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action", "Ignores terrain cost"],
+		"cost": 69
 ]
