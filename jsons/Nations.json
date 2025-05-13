@@ -32,7 +32,7 @@
 		"outerColor": [156,225,252],
 		"innerColor": [153,108,117],
 		"uniqueName": "Community Unison",
-		"unique": ["[+1 Happiness] from each Trade Route", "\"Borrows\" city names from other civilizations in the game", "[-50]% maintenance on road & railroads"],
+		"uniques": ["[+1 Happiness] from each Trade Route", "\"Borrows\" city names from other civilizations in the game", "[-50]% maintenance on road & railroads"],
 		"cities": ["FurPlaza"],
 		"spyNames": ["Diam", "Silver", "Razor", "Sheran", "Terumm", "Aslan", "Algol", "FugiMagi", "Mark_Barks", "NorthenLion"]
 	}
