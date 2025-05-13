@@ -21,6 +21,6 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action", "Ignores terrain cost"],
-		"cost": 69
+		"cost": 48
 	}
 ]
